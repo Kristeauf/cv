@@ -10,7 +10,7 @@ div.presentation{
     margin-left:0;
     margin-right: 0;
    
-    text-align: center;
+    text-align: left;
     height: 200px;
     display: flex;
     justify-content: space-between;
@@ -30,4 +30,8 @@ iframe{
 .sites{
     display: flex;
     justify-content: space-around;
+}
+footer{
+  display: flex;
+  justify-content: space-around;
 }
