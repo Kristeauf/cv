@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+   
+
+
+
+div.presentation{ 
+    margin-left:0;
+    margin-right: 0;
+   
+    text-align: center;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color:rgb(252, 252, 246);
+    
+  
+};
+li{
+  margin: 10px;
+}
+
+iframe{
+    border-radius: 25px;
+  
+}
+.sites{
+    display: flex;
+    justify-content: space-around;
+}
